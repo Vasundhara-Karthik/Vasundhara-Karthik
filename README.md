@@ -21,9 +21,12 @@ Additionally, I'm deeply committed to combatting anti-microbial resistance, expl
 3) Comparative Transcriptome Analysis of Diverse Plant Species to study stress responses   
 4) Insilico Characterization of Kinase-encoding Genes in Vigna mungo   
 5) Effect of Thermopriming on Plants’ response to heat stress
+
+          
      
-     
+                                          
 Occasionally, I also write technical content about Clinical data validation platforms. I have also contributed to a book chapter on genomics-assisted breeding. 
+
 Here's the link to chapter:
 https://www.researchgate.net/publication/362035404_Integrating_Genomics_and_Phenomics_Tools_to_Dissect_Climate_Resilience_Traits_in_Small_Millets    
 
