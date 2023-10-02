@@ -1,6 +1,6 @@
 ****<h3>Hey there! I'm Vasundhara.</h3>****
 
-I am a Biology BS-MS '22 graduate🎓 from IISER Tirupati, with a specialization in plant stress biology🌱. Currently, I am immersed in microbial genomics for AMR surveillance at Ashoka University. I am fueled by my passion to explore Bioinformatics🧬to decode the secrets of life!
+I am a Biology BS-MS '22 graduate🎓 from IISER Tirupati, with a specialization in plant stress biology🌱. Currently, I am immersed in microbial genomics for AMR surveillance at Ashoka University. I am fueled by my passion to explore Bioinformatics🧬 to decode the secrets of life!
 
 My research interests encompass the epigenetic regulation of genes, particularly during stress, delving into comparative genomics, gene regulatory networks (GRNs), and epidemiological modeling in the field of bioinformatics. 
 
@@ -27,7 +27,7 @@ Additionally, I'm deeply committed to combatting anti-microbial resistance, expl
                                           
 Occasionally, I also write technical content about Clinical data validation platforms. I have also contributed to a book chapter on genomics-assisted breeding. 
 
-Here's the link to chapter:
+Here's the link to the chapter:
 https://www.researchgate.net/publication/362035404_Integrating_Genomics_and_Phenomics_Tools_to_Dissect_Climate_Resilience_Traits_in_Small_Millets    
 
 
